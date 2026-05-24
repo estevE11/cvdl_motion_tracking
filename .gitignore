@@ -1,4 +1,5 @@
-# Ignore everything except the notebook
+# Ignore everything except tracked project files
 *
 !.gitignore
 !CVDL_Motion and Tracking-v2.ipynb
+!requirements.txt

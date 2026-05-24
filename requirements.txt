@@ -1,0 +1,7 @@
+Cython
+numpy
+opencv-python
+ipython
+apng
+ultralytics
+pyflow @ git+https://github.com/pathak22/pyflow.git
