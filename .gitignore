@@ -1,0 +1,4 @@
+# Ignore everything except the notebook
+*
+!.gitignore
+!CVDL_Motion and Tracking-v2.ipynb
